@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(109, 99, 99, 0.945);
+}
+
+.wrapper {
+    border-color: rgb(44, 41, 38);
+    border-style: solid;
+    border-width: medium;
+}
